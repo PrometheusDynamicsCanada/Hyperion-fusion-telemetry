@@ -1,0 +1,106 @@
+{
+    "missed_crashes": [
+        28201,
+        28203,
+        28299,
+        28300,
+        28301,
+        28345,
+        28828,
+        28830,
+        29161,
+        29168,
+        29227,
+        29228,
+        29469,
+        29499,
+        29514,
+        29609,
+        29671,
+        29812,
+        29917,
+        29971
+    ],
+    "late_detections_under_10ms": [
+        {
+            "shot": 28053,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 28189,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 28202,
+            "warning_ms": 5.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 28204,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 28855,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 28989,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29023,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29056,
+            "warning_ms": 0.0,
+            "trigger": "THERMAL [UFO]"
+        },
+        {
+            "shot": 29144,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29454,
+            "warning_ms": 5.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29517,
+            "warning_ms": 5.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29767,
+            "warning_ms": 5.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29813,
+            "warning_ms": 5.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29889,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29929,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        },
+        {
+            "shot": 29970,
+            "warning_ms": 0.0,
+            "trigger": "FLUID [PDI]"
+        }
+    ]
+}
