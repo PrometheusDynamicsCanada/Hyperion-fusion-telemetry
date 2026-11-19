@@ -1,0 +1,18 @@
+PROMETHEUS DYNAMICS PROPRIETARY LICENSE
+
+Copyright (c) 2026 Prometheus Dynamics. All rights reserved.
+
+1. PERMITTED USE
+This repository and its contents (the "Validation Package") are provided strictly for the purpose of independent empirical verification of reported metrics. You are permitted to download, view, and execute the provided validation scripts solely to audit the accompanying telemetry data.
+
+2. RESTRICTIONS
+You may not:
+a) Copy, modify, or distribute any part of this Validation Package for commercial purposes.
+b) Reverse-engineer, decompile, or attempt to derive the proprietary Physics-Informed Neural Network (PINN) architecture, training methodologies, or optimization pipelines associated with these outputs.
+c) Use the data or scripts to train, validate, or benchmark competing machine learning models without express written consent from Prometheus Dynamics.
+
+3. NO WARRANTY
+The Validation Package is provided "AS IS", without warranty of any kind, express or implied. Prometheus Dynamics shall not be liable for any claims, damages, or other liability arising from the use of this data.
+
+4. INTELLECTUAL PROPERTY
+The inclusion of empirical validation artifacts does not constitute a release of the underlying implementation or grant any license to reproduce the proprietary Hyperion engine. All rights to the inference architecture, training methodologies, and underlying mathematical frameworks are expressly reserved.

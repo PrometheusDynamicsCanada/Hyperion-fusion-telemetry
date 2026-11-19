@@ -1,0 +1,9 @@
+{
+  "facility": "UKAEA MAST",
+  "shot_id": 30421,
+  "alarm_time_ms": 216.67,
+  "quench_time_ms": 579.17,
+  "warning_lead_time_ms": 362.5,
+  "classification": "TP",
+  "disclosure_note": "Discharge-level alarm and quench timestamps preserved; internal diagnostic channel trajectories withheld."
+}

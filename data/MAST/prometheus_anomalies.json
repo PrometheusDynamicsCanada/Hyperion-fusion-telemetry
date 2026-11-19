@@ -1,0 +1,355 @@
+{
+  "cohort_summary": {
+    "total_shots_scanned": 12693,
+    "valid_disruptions_analyzed": 2017,
+    "detected_disruptions": 1990,
+    "missed_disruptions_total": 27,
+    "overall_success_rate_pct": 98.66,
+    "weighted_mean_warning_ms": 151.18
+  },
+  "cohort_25000_30000_anomalies": {
+    "missed_crashes": [
+      25058,
+      25065,
+      25099,
+      25249,
+      25762,
+      26262,
+      26630,
+      26633,
+      26637,
+      26638,
+      26642,
+      27052,
+      27417,
+      27586,
+      27629,
+      27738,
+      27949,
+      27951,
+      27952,
+      27953,
+      27975
+    ],
+    "late_detections_under_10ms": [
+      {
+        "shot": 25086,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 25129,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 25265,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 25332,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 25941,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 25942,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 25945,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 25953,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 25966,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 25988,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26006,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26041,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26087,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26097,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26263,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26264,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26359,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26400,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26401,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26596,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26601,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26602,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26604,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26606,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26607,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26613,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26622,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26623,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26626,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26627,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26636,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26643,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26647,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26648,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26651,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26654,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 26837,
+        "warning_ms": 10.0
+      },
+      {
+        "shot": 26867,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 26910,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27020,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27233,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27373,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27573,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27669,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27737,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27781,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27946,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27948,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27954,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27955,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 27957,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 27958,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 28189,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29056,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29227,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29671,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29970,
+        "warning_ms": 5.0
+      }
+    ]
+  },
+  "subcohort_28000_30000_audit": {
+    "missed_crashes": [
+      28201,
+      28203,
+      28299,
+      28300,
+      28301,
+      28345,
+      28828,
+      28830,
+      29161,
+      29168,
+      29227,
+      29228,
+      29469,
+      29499,
+      29514,
+      29609,
+      29671,
+      29812,
+      29917,
+      29971
+    ],
+    "late_detections_under_10ms": [
+      {
+        "shot": 28053,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 28189,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 28202,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 28204,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 28855,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 28989,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29023,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29056,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29144,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29454,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 29517,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 29767,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 29813,
+        "warning_ms": 5.0
+      },
+      {
+        "shot": 29889,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29929,
+        "warning_ms": 0.0
+      },
+      {
+        "shot": 29970,
+        "warning_ms": 0.0
+      }
+    ]
+  }
+}
